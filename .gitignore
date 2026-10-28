@@ -1,0 +1,20 @@
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# Streamlit & Secrets
+.streamlit/secrets.toml
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary Data & Cache
+*.tmp
+temp_uploads/
